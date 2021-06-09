@@ -19,3 +19,5 @@ https://answers.unrealengine.com/questions/953089/niagara-shader-module-delegate
 인벤토리 : i <br>
 점프 : spacebar (어빌리티 장착 후 사용가능) <br>
 점멸 : alt (어빌리티 장착 후 사용가능) <br>
+공격 : mouse L (장비 장착 후 사용가능) <br>
+막기 : mouse R (장비 장착 후 사용가능) <br>
