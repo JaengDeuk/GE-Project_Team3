@@ -3,7 +3,7 @@
 <img src="Image/1.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="Image/2.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-미로를 풀고 보스를 처치하는 게임입니다.
+퍼즐을 풀고 보스를 처치하는 게임입니다.
 
 # Download
 [다운로드 링크](https://drive.google.com/file/d/1IId4Ihhj1zkCqFeQtAvk97L9VCSRXlDs/view)
