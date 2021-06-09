@@ -5,6 +5,10 @@
 
 미로를 풀고 보스를 물리치세요.
 
+(팀장) 송민호 - 
+이승규 - 
+이종범 - https://github.com/JaengDeuk
+
 # Download
 [다운로드 링크](https://drive.google.com/file/d/1IId4Ihhj1zkCqFeQtAvk97L9VCSRXlDs/view) <br>
 <br>
