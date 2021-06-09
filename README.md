@@ -3,13 +3,13 @@
 <img src="Image/1.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="Image/2.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-미로를 풀고 보스를 물리치세요. <br>
-<br>
-Niagara 관련 빌드에러가 발생하여 Niagara Effect만 제외하고 빌드하였습니다. <br>
-https://answers.unrealengine.com/questions/953089/niagara-shader-module-delegate-never-set.html
+미로를 풀고 보스를 물리치세요.
 
 # Download
-[다운로드 링크](https://drive.google.com/file/d/1IId4Ihhj1zkCqFeQtAvk97L9VCSRXlDs/view)
+[다운로드 링크](https://drive.google.com/file/d/1IId4Ihhj1zkCqFeQtAvk97L9VCSRXlDs/view) <br>
+<br>
+(추가) Niagara 관련 빌드에러가 발생하여 Niagara Effect만 제외하고 빌드하였습니다. <br>
+https://answers.unrealengine.com/questions/953089/niagara-shader-module-delegate-never-set.html
 
 # Control
 이동 : w, a, s, d <br>
