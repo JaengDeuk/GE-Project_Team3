@@ -1,4 +1,4 @@
-# GE_TeamProject_Team3
+# GE-Project_Team3
 
 <center><img src="img/Title.png"></img>
 </center>
