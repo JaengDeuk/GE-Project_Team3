@@ -1,4 +1,4 @@
-# GE-Project_Team3
+# GameEngine-Project_Team3
 
 <center><img src="img/Title.png"></img>
 </center>
