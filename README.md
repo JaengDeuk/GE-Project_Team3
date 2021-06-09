@@ -1,7 +1,7 @@
 # GE-Project_Team3
 
-<img src="Image/1.gif" width="500px" height="260px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-<img src="Image/2.gif" width="500px" height="260px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="Image/1.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="Image/2.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 미로를 풀고 보스를 물리치세요.
 
