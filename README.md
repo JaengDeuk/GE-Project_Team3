@@ -11,6 +11,7 @@
 # Control
 이동 : wasd <br>
 대시 : shift <br>
+색상변경 : 1(이전 색상) 4(이후 색상)
 아이템박스 상호작용 : e <br>
 인벤토리 : i <br>
 점프 : spacebar (어빌리티 장착 후 사용가능) <br>
