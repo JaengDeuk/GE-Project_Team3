@@ -1,4 +1,4 @@
-# GE-Project_Team3
+# Maze-and-Boss-Rush
 2021-1 게임공학 프로젝트
 
 <img src="Image/1.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
