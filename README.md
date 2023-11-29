@@ -1,4 +1,5 @@
 # GE-Project_Team3
+2023-2 게임프로그래밍입문 프로젝트
 
 <img src="Image/1.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="Image/2.gif" width="400px" height="220px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
