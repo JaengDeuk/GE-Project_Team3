@@ -8,7 +8,7 @@
 
 (팀장) 송민호 - https://github.com/Minho-Song <br>
 이승규 - https://github.com/Nuonlee <br>
-이종범 - https://github.com/JaengDeuk <br>
+이종범 - https://github.com/JengDeuk <br>
 
 # Download
 [다운로드 링크](https://drive.google.com/file/d/1IId4Ihhj1zkCqFeQtAvk97L9VCSRXlDs/view) <br>
